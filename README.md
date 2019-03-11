@@ -10,7 +10,7 @@ Project 2 : LRU Cache |
 Creating and comparing Hash Maps and Lists.
   
 Project 3 : IMDB BFS | 
-A breathfirst search engine to find the shortest distence between each Actors who are linked by the movies they have   been in. Actors are orginized in a link list that is created by parsing text files downloaded from the Internet Movie Database.
+A breathfirst search engine to find the shortest distance between each Actors who are linked by the movies they have been in. Actors are organized in a linked list that is created by parsing text files downloaded from the Internet Movie Database.
 
 Project 4 : Zootopia | 
 A JavaPane based game.
